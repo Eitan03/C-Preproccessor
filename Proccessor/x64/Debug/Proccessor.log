@@ -1,0 +1,5 @@
+﻿  ProccessFunctions.c
+D:\Projects\C\Proccessor\Proccessor\ProccessFunctions.c(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Projects\C\Proccessor\Proccessor\ProccessFunctions.c(30,47): warning C4020: 'proccessIfDefined': too many actual parameters
+D:\Projects\C\Proccessor\Proccessor\ProccessFunctions.c(38,64): warning C4028: formal parameter 2 different from declaration
+  Proccessor.vcxproj -> D:\Projects\C\Proccessor\x64\Debug\Proccessor.exe

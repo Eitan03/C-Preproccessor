@@ -1,0 +1,10 @@
+
+
+
+
+
+// TODO redefine
+
+int main() {
+	printf("X86"); // 14
+}
